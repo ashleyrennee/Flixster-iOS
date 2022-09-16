@@ -13,7 +13,7 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 
 ### App Walkthrough GIF
 
-<img src="https://user-images.githubusercontent.com/40500769/190826670-7057d24f-ba8f-428e-8e07-b98c9f4d3f0e.gif" width=200/>
+<img src="https://user-images.githubusercontent.com/40500769/190826670-7057d24f-ba8f-428e-8e07-b98c9f4d3f0e.gif" width=100/>
 
 ### Notes
 A major challenge I encountered during this project was rendering each poster image as well as adding AlamofireImage.
