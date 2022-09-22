@@ -13,7 +13,8 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 - [ ] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
 
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+
+<img src="![Uploading flixsterp2detailspage.gif…]()" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
